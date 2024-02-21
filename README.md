@@ -5,3 +5,8 @@
 #### [Preview]
 - 초기화면 (No Project)
 <img src="./README_img/NoProject.png" width="80%">
+
+<br>
+
+- 새 프로젝트 생성
+<img src="./README_img/NewProject.png" width="80%">
