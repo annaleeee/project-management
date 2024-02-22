@@ -10,3 +10,8 @@
 
 - 새 프로젝트 생성
 <img src="./README_img/NewProject.png" width="80%">
+
+<br>
+
+- To Do List 추가
+<img src="./README_img/ToDoList.png" width="80%">
